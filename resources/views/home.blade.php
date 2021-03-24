@@ -19,7 +19,7 @@
                     <table class="table table-responsive">
                     <tr><th>Username</th><th>:</th><td>{{ $user->username }}</td></tr>
                     <tr><th>Name</th><th>:</th><td>{{ $user->name }}</td></tr>
-                    <tr><th>Email</th><th>:</th><td>{{ $user->Email }}</td></tr>
+                    <tr><th>Email</th><th>:</th><td>{{ $user->email }}</td></tr>
                     <tr><th>Created At</th><th>:</th><td>{{ $user->created_at }}</td></tr>
                     </table>
                 </div>
